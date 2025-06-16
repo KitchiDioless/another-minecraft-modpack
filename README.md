@@ -31,7 +31,6 @@
 - iris-1.7.6+mc1.20.1.jar
 - visuality-0.7.1+1.20.jar
 - skinlayers3d-fabric-1.7.5-mc1.20.1.jar
-- <font color="green">lambdynamiclights-2.3.2+1.20.1.jar</font> 
 
 ## Интерфейс и HUD
 - BetterF3-7.0.2-Fabric-1.20.1.jar
@@ -46,8 +45,7 @@
 - <font color="green">inventory-hud-3.4.7+1.20.1.jar</font>  
 
 ## Игровые механики и предметы
-- <font color="green">Hephaestus-1.20.1-3.6.4.287</font>  
-- <font color="green">carryon-fabric-1.20.1-2.1.2.7</font>  
+- <font color="green">Hephaestus-1.20.1-3.6.4.287</font>   
 - accessories-fabric-1.0.0-beta.47+1.20.1.jar
 - artifacts-fabric-9.5.15.jar
 - comforts-fabric-6.4.0+1.20.1.jar
